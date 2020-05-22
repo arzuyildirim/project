@@ -1,2 +1,2 @@
 # web_data_project
-Sentiment Analysis of Star Wars Heroes
+Here is the project of Arzu Yıldırım. There are 3 files here. The first is the R file, which contains preprocessing codes to make the Java dataset compatible with gephi. The second file is the R file containing the sentiment analysis codes. Finally, you can find the pdf file related to graphics and findings from these analyzes.
